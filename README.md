@@ -5,7 +5,7 @@
 <p>
   <em>
     I'm Henrique, I'm majoring in <b>Software Engineering</b>, Univille</a>.  
-    A passionate about all layers of <b>Software Development</b> and a <b>UI/UX Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    Passionate about all layers of <b>Software Development</b> and a <b>UI/UX Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   </em>
 </p>
 

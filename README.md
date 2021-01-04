@@ -9,10 +9,6 @@
   </em>
 </p>
 
-
-
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=henriquesml&show_icons=true&hide_border=true)
-
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=henriquesml)
